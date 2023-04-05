@@ -16,8 +16,8 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [ ] Tarefa 5
+- [ ] Estudo inicial, levantamento de tecnologia a ser utilizada.
+
 
 ## 💻 Pré-requisitos
 
