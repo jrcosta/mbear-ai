@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/mbear-ai/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/mbear-ai/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="https://scx1.b-cdn.net/csz/news/800a/2016/malebrownbea.jpg" alt="Uma mãe ursa e seus filhotes">
 
 > Repositório para armazenar projeto de sistema que utiliza visão computacional(AI) e CFTV para auxiliar na segurança de escolas/creches.
 
