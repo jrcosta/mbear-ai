@@ -2,11 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/mbear-ai)
-![GitHub language count](https://img.shields.io/github/languages/count/mbear-ai)
-![GitHub forks](https://img.shields.io/github/forks/mbear-ai)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/mbear-ai)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/mbear-ai)
+![GitHub repo size](https://img.shields.io/github/repo-size/jrcosta/mbear-ai)
 
 <img src="https://scx1.b-cdn.net/csz/news/800a/2016/malebrownbea.jpg" alt="Uma mãe ursa e seus filhotes">
 
