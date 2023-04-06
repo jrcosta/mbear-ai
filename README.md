@@ -8,6 +8,10 @@
 
 > Repositório para armazenar projeto de sistema que utiliza visão computacional(AI) e CFTV para auxiliar na segurança de escolas/creches.
 
+### 🔬 Material de Apoio
+
+> [Material Inicial](https://github.com/jrcosta/mbear-ai/edit/master/STUDY.md)
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
