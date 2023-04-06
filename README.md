@@ -94,6 +94,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/MauricioDC">
+        <img src="https://avatars.githubusercontent.com/u/63078965?v=4" width="100px;" alt="Foto do Matheus Vinicius no GitHub"/><br>
+        <sub>
+          <b>Matheus Vinicius</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
