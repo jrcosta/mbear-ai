@@ -15,7 +15,18 @@
 
 #### Lembre-se de que a construção de um sistema de visão computacional pode ser um processo complexo e demorado, mas com persistência e dedicação, você pode criar um sistema eficaz que possa ajudar a manter sua propriedade segura.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="ChatGPT" width="5%"/> Fonte: ChatGPT Answer
+# Continuação das informações.
+Criar um programa de visão computacional para identificar invasão de perímetro em escolas usando CFTV pode ser um projeto interessante. No entanto, é importante notar que isso é um projeto complexo que exigirá habilidades avançadas em programação, visão computacional, inteligência artificial e aprendizado de máquina. Além disso, você precisará de um conjunto de dados grande e rotulado para treinar seu modelo de visão computacional.
+
+Para começar, você precisará de uma câmera de segurança CFTV que cubra o perímetro da escola e capture imagens em tempo real. Em seguida, você pode usar uma biblioteca de processamento de imagens como OpenCV para processar as imagens capturadas. Com o OpenCV, você pode aplicar técnicas de detecção de bordas, segmentação de objetos e rastreamento de objetos para identificar objetos em movimento na imagem.
+
+Em seguida, você pode treinar seu modelo de aprendizado de máquina para identificar se um objeto em movimento é uma pessoa ou outra coisa, como um animal ou um objeto inanimado. Você pode fazer isso criando um conjunto de dados rotulado que inclua exemplos de pessoas invadindo o perímetro da escola e exemplos de outras coisas em movimento, como animais ou carros.
+
+Depois de treinar seu modelo de visão computacional, você pode usá-lo para detectar pessoas invadindo o perímetro da escola em tempo real. Quando o modelo detectar uma invasão, você pode configurá-lo para alertar as autoridades ou para tomar outras medidas de segurança apropriadas.
+
+É importante lembrar que a criação de um programa de visão computacional para fins de segurança deve ser feita com cuidado e com a devida autorização e consentimento das autoridades responsáveis
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="ChatGPT" width="5%"/> Fonte: Discussão feita com a IA ChatGPT
 
 # Vídeos no youtube
 
