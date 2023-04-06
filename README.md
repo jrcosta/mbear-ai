@@ -8,6 +8,9 @@
 
 > Repositório para armazenar o desenvolvimento de um projeto de sistema que utiliza [Visão Computacional](https://medium.com/data-hackers/computer-vision-feat-programação-dinâmica-data-hackers-podcast-30-9844ab652975) e [CFTV](https://blog.intelbras.com.br/cftv-saiba-tudo-sobre-esse-sistema/) para auxiliar na segurança de Escolas/Creches.
 
+### 📣 Grupo de Discussão Telegram
+> [Entrar no Grupo](https://t.me/+4lIuUnkq3SwxNzFh)
+
 ### 🔬 Material de Apoio
 
 > [Material Inicial](STUDY.md)
