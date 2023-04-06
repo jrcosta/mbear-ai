@@ -6,7 +6,7 @@
 
 <img src="https://scx1.b-cdn.net/csz/news/800a/2016/malebrownbea.jpg" alt="Uma mãe ursa e seus filhotes">
 
-> Repositório para armazenar o desenvolvimento de um projeto de sistema que utiliza visão computacional(AI) e CFTV para auxiliar na segurança de escolas/creches.
+> Repositório para armazenar o desenvolvimento de um projeto de sistema que utiliza [Visão Computacional](https://medium.com/data-hackers/computer-vision-feat-programação-dinâmica-data-hackers-podcast-30-9844ab652975) e [CFTV](https://blog.intelbras.com.br/cftv-saiba-tudo-sobre-esse-sistema/) para auxiliar na segurança de Escolas/Creches.
 
 ### 🔬 Material de Apoio
 
