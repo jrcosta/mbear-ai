@@ -75,6 +75,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/CaioHeinz">
+        <img src="https://avatars.githubusercontent.com/u/84110802?s=100&v=4" width="100px;" alt="Foto do Caio Heinz no GitHub"/><br>
+        <sub>
+          <b>Caio Heinz</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
