@@ -1,4 +1,6 @@
-# Dicas para começar um projeto de visão computacional
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="ChatGPT" width="5%"/> **Informações obtidas em pesquisas na ferramenta [ChatGPT](https://chat.openai.com/chat)**
+
+##### Dicas para começar um projeto de visão computacional
 1. Começar um projeto de visão computacional pode ser bastante desafiador, mas também pode ser muito empolgante! Aqui estão algumas sugestões para ajudá-lo a começar:
 
 2. Aprenda as bases da visão computacional: antes de começar a construir seu sistema, é importante ter uma compreensão sólida dos conceitos básicos da visão computacional, como processamento de imagem, detecção de bordas, segmentação de imagem e classificação. Existem muitos recursos on-line disponíveis para ajudá-lo a aprender esses conceitos, como cursos gratuitos, tutoriais e livros.
@@ -26,9 +28,7 @@ Depois de treinar seu modelo de visão computacional, você pode usá-lo para de
 
 É importante lembrar que a criação de um programa de visão computacional para fins de segurança deve ser feita com cuidado e com a devida autorização e consentimento das autoridades responsáveis
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="ChatGPT" width="5%"/> **Fonte: Discussão feita com a IA [ChatGPT](https://chat.openai.com/chat)**
-
-# Vídeos no youtube
+# <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="5%"/> Vídeos no youtube
 
 **[Playlist Visão Computacional - Canal Programação Dinâmica]** (https://www.youtube.com/playlist?list=PL5TJqBvpXQv729nb3vdeP4E87hLark5q9)
 
