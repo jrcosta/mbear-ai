@@ -13,7 +13,7 @@
 
 ### 🔬 Material de Apoio
 
-> [Material Inicial](STUDY.md)
+> [Levantamentos Iniciais](STUDY.md)
 
 ### Ajustes e melhorias
 
