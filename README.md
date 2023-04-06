@@ -25,9 +25,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * EDITAR
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando MBear AI
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar o MBear AI, siga estas etapas:
 
 Linux e macOS:
 ```
@@ -39,9 +39,9 @@ Windows:
 <comando_de_instalação>
 ```
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando MBear AI
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar MBear AI, siga estas etapas:
 
 ```
 <exemplo_de_uso>
@@ -49,7 +49,7 @@ Para usar <nome_do_projeto>, siga estas etapas:
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para MBear AI
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 Para contribuir com <nome_do_projeto>, siga estas etapas:
 
