@@ -83,6 +83,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/MauricioDC">
+        <img src="https://avatars.githubusercontent.com/u/84142206?v=4" width="100px;" alt="Foto do Maurício Costa no GitHub"/><br>
+        <sub>
+          <b>Maurício Costa</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
