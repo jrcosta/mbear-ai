@@ -17,3 +17,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="ChatGPT" width="5%"/> Fonte: ChatGPT Answer
 
+# Vídeos no youtube
+
+**[Playlist Visão Computacional - Canal Programação Dinâmica]** (https://www.youtube.com/playlist?list=PL5TJqBvpXQv729nb3vdeP4E87hLark5q9)
+
