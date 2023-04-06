@@ -10,7 +10,7 @@
 
 ### 🔬 Material de Apoio
 
-> [Material Inicial](https://github.com/jrcosta/mbear-ai/edit/master/STUDY.md)
+> [Material Inicial](STUDY.md)
 
 ### Ajustes e melhorias
 
