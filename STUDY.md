@@ -1,6 +1,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="ChatGPT" width="5%"/> **Informações obtidas em pesquisas na ferramenta [ChatGPT](https://chat.openai.com/chat)**
 
-##### Dicas para começar um projeto de visão computacional
+#### Dicas para começar um projeto de visão computacional
+
 1. Começar um projeto de visão computacional pode ser bastante desafiador, mas também pode ser muito empolgante! Aqui estão algumas sugestões para ajudá-lo a começar:
 
 2. Aprenda as bases da visão computacional: antes de começar a construir seu sistema, é importante ter uma compreensão sólida dos conceitos básicos da visão computacional, como processamento de imagem, detecção de bordas, segmentação de imagem e classificação. Existem muitos recursos on-line disponíveis para ajudá-lo a aprender esses conceitos, como cursos gratuitos, tutoriais e livros.
@@ -27,6 +28,22 @@ Em seguida, você pode treinar seu modelo de aprendizado de máquina para identi
 Depois de treinar seu modelo de visão computacional, você pode usá-lo para detectar pessoas invadindo o perímetro da escola em tempo real. Quando o modelo detectar uma invasão, você pode configurá-lo para alertar as autoridades ou para tomar outras medidas de segurança apropriadas.
 
 É importante lembrar que a criação de um programa de visão computacional para fins de segurança deve ser feita com cuidado e com a devida autorização e consentimento das autoridades responsáveis
+
+# Possíveis dificuldades legais:
+
+A utilização de câmeras de vigilância em escolas pode estar sujeita a leis e regulamentações locais, estaduais e nacionais. É importante considerar as leis e regulamentações aplicáveis antes de implementar um sistema de segurança baseado em visão computacional.
+
+A seguir estão algumas leis e regulamentações que podem afetar a utilização de câmeras de vigilância em escolas:
+
+1. Lei Geral de Proteção de Dados (LGPD) - Lei nº 13.709/2018: A utilização de câmeras de vigilância pode envolver a coleta, armazenamento e processamento de imagens de pessoas, o que pode ser considerado dados pessoais. A LGPD estabelece regras para o tratamento de dados pessoais, incluindo a coleta, uso, armazenamento e compartilhamento de dados pessoais.
+
+2. Lei de Acesso à Informação - Lei nº 12.527/2011: A LAI pode ser aplicável à utilização de câmeras de vigilância em escolas. A LAI estabelece regras para o acesso à informação pública, incluindo informações coletadas por órgãos públicos, como escolas.
+
+3. Legislação de Proteção à Privacidade: Dependendo da jurisdição, pode haver leis e regulamentações específicas de proteção à privacidade que regem a utilização de câmeras de vigilância em espaços públicos, como escolas. No Brasil, por exemplo, o Marco Civil da Internet (Lei nº 12.965/2014) e o Código de Defesa do Consumidor (Lei nº 8.078/1990) também podem ser aplicáveis.
+
+4. Direitos Humanos: A utilização de câmeras de vigilância em escolas pode afetar os direitos humanos, como o direito à privacidade, à liberdade de expressão e à liberdade de movimento. É importante considerar os direitos humanos ao implementar um sistema de segurança baseado em visão computacional. Os direitos humanos estão previstos na Constituição Federal (CF) e em tratados internacionais de direitos humanos ratificados pelo Brasil, como a Convenção Americana de Direitos Humanos e o Pacto Internacional de Direitos Civis e Políticos.
+
+Em resumo, a utilização de câmeras de vigilância em escolas pode estar sujeita a leis e regulamentações locais, estaduais e nacionais. É importante considerar as leis e regulamentações aplicáveis antes de implementar um sistema de segurança baseado em visão computacional e garantir que o sistema esteja em conformidade com as leis e regulamentações aplicáveis.
 
 # <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="5%"/> Vídeos no youtube
 
