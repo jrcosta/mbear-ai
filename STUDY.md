@@ -26,7 +26,7 @@ Depois de treinar seu modelo de visão computacional, você pode usá-lo para de
 
 É importante lembrar que a criação de um programa de visão computacional para fins de segurança deve ser feita com cuidado e com a devida autorização e consentimento das autoridades responsáveis
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="ChatGPT" width="5%"/> Fonte: Discussão feita com a IA ChatGPT
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="ChatGPT" width="5%"/> **Fonte: Discussão feita com a IA ChatGPT**
 
 # Vídeos no youtube
 
