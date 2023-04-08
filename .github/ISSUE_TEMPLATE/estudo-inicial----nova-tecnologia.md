@@ -1,6 +1,7 @@
 ---
-name: Estudo Inicial
-about: Descreva a tecnologia que vai estudar
+name: Estudo Inicial  - Nova Tecnologia
+about: Preencha caso queira contribuir com uma tecnologia que ainda não está presente
+  no projeto.
 title: "[Nome da Tecnologia] - Estudo Inicial"
 labels: ''
 assignees: ''

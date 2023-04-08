@@ -1,6 +1,6 @@
 ---
 name: Solicitação de Entrada no Projeto
-about: Preencha para solicitar entrada no projeto
+about: Preencha para solicitar entrada no projeto.
 title: Solicitação de Entrada no Projeto
 labels: ''
 assignees: jrcosta
