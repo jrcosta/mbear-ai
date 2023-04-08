@@ -21,12 +21,12 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [ ] Estudo inicial, levantamento de tecnologia a ser utilizada.
 
-
+<!---
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* EDITAR
+
+* EDITAR 
 
 ## 🚀 Instalando MBear AI 🐻
 
@@ -51,7 +51,7 @@ Para usar MBear AI, siga estas etapas:
 ```
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
-
+--->
 ## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
