@@ -16,7 +16,7 @@ Este projeto é licenciado sob a licença Apache 2.0. Ao contribuir para este pr
 
 Estamos procurando contribuidores para ajudar a definir as tecnologias a serem usadas neste projeto. Se você tem experiência em Visão Computacional e CFTV, ou está disposto a estudar essas tecnologias, adoraríamos ouvir suas ideias. Para contribuir com este estudo inicial, siga os passos abaixo:
 
-1. Crie uma issue solicitando entrar no projeto [Clique aqui para criar uma nova issue de solicitação de entrada no projeto](https://github.com/jrcosta/mbear-ai/issues/new?assignees=jrcosta&labels=&template=solicita%C3%A7%C3%A3o-de-entrada-no-projeto.md&title=Solicita%C3%A7%C3%A3o+de+Entrada+no+Projeto)
+1. Crie uma issue solicitando a entrada. [Clique aqui para criar uma nova issue de solicitação de entrada no projeto](https://github.com/jrcosta/mbear-ai/issues/new?assignees=jrcosta&labels=&template=solicita%C3%A7%C3%A3o-de-entrada-no-projeto.md&title=Solicita%C3%A7%C3%A3o+de+Entrada+no+Projeto)
 
 2. Crie uma issue descrevendo a tecnologia que você gostaria de estudar e como ela poderia ser aplicada neste projeto.
 
