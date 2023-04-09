@@ -1,4 +1,6 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="ChatGPT" width="5%"/> **Informações obtidas em pesquisas na ferramenta [ChatGPT](https://chat.openai.com/chat)**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="ChatGPT" width="5%"/> 
+
+# Informações obtidas em pesquisas na ferramenta [ChatGPT](https://chat.openai.com/chat)
 
 #### Dicas para começar um projeto de visão computacional
 
