@@ -1,4 +1,8 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="ChatGPT" width="5%"/> **Informações obtidas em pesquisas na ferramenta [ChatGPT](https://chat.openai.com/chat)**
+# 🚨🚨 ESSE DOCUMENTO IRA ARMAZENAR LEVANTAMENTOS INICIAIS. CABE RESSALTAR QUE QUALQUER DIFICULDADE/LIMITAÇÃO DESCRITA ABAIXO NÃO IMPEDE O PROJETO DE CONTINUAR, SERVE APENAS PARA NORTEAR A ESCOLHA DAS TECNOLOGIAS E MÉTODOS.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="ChatGPT" width="5%"/> 
+
+# Informações obtidas em pesquisas na ferramenta [ChatGPT](https://chat.openai.com/chat)
 
 #### Dicas para começar um projeto de visão computacional
 
@@ -44,6 +48,20 @@ A seguir estão algumas leis e regulamentações que podem afetar a utilização
 4. Direitos Humanos: A utilização de câmeras de vigilância em escolas pode afetar os direitos humanos, como o direito à privacidade, à liberdade de expressão e à liberdade de movimento. É importante considerar os direitos humanos ao implementar um sistema de segurança baseado em visão computacional. Os direitos humanos estão previstos na Constituição Federal (CF) e em tratados internacionais de direitos humanos ratificados pelo Brasil, como a Convenção Americana de Direitos Humanos e o Pacto Internacional de Direitos Civis e Políticos.
 
 Em resumo, a utilização de câmeras de vigilância em escolas pode estar sujeita a leis e regulamentações locais, estaduais e nacionais. É importante considerar as leis e regulamentações aplicáveis antes de implementar um sistema de segurança baseado em visão computacional e garantir que o sistema esteja em conformidade com as leis e regulamentações aplicáveis.
+
+# Possíveis ferramentas Open Source para serem utilizadas:
+
+#### Existem vários sistemas de código aberto disponíveis na internet que podem ser úteis para implementar uma solução de detecção de invasões em escolas e creches. Aqui estão alguns exemplos:
+
+1. **OpenALPR**: é um software de reconhecimento automático de placas de veículos de código aberto que pode ser usado para identificar veículos suspeitos nas imediações da escola ou creche. Ele usa técnicas de visão computacional para detectar e reconhecer placas de veículos em imagens capturadas pelas câmeras de vigilância.
+
+2. **MotionEye**: é um software de vigilância de código aberto que pode ser usado para configurar câmeras de vigilância em uma rede local. Ele suporta a integração de câmeras IP, webcams e outros dispositivos de captura de imagens e pode ser usado para monitorar e gravar imagens em tempo real.
+
+3. **OpenCV**: é uma biblioteca de visão computacional de código aberto que pode ser usada para processar imagens capturadas pelas câmeras de vigilância. Ele fornece uma ampla variedade de funções de processamento de imagens, como detecção de objetos, rastreamento de movimento e reconhecimento de padrões.
+
+4. **Darknet**: é uma biblioteca de aprendizado de máquina de código aberto que pode ser usada para treinar e implementar modelos YOLO para detecção de objetos em imagens de vigilância. Ele inclui várias implementações de modelos YOLO pré-treinados e pode ser usado para treinar modelos personalizados com conjuntos de dados próprios.
+
+#### É importante lembrar que, ao usar sistemas de código aberto, é necessário avaliar cuidadosamente a segurança e a confiabilidade do software antes de integrá-lo em seu projeto. Além disso, é importante seguir as leis e regulamentações locais relacionadas à privacidade e segurança de dados.
 
 # <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="5%"/> Vídeos no youtube
 
