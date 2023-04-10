@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread('C:/Users/eneri.junior/mbear-ai/estudos/cursos/udemy/Curso1/OpenCVBasico/piramide.jpg')
+img = cv2.imread('C:/Users/eneri.junior/mbear-ai/estudos/cursos/udemy/Curso1/OpenCVBasic/piramide.jpg')
 img = cv2.resize(img,(500,400))
 imgGray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 imgBlur = cv2.GaussianBlur(imgGray,(7, 7),0)
