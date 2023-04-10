@@ -1,3 +1,5 @@
+# 🚨🚨 ESSE DOCUMENTO IRA ARMAZENAR LEVANTAMENTOS INICIAIS. CABE RESSALTAR QUE QUALQUER DIFICULDADE/LIMITAÇÃO DESCRITA ABAIXO NÃO IMPEDE O PROJETO DE CONTINUAR, SERVE APENAS PARA NORTEAR A ESCOLHA DAS TECNOLOGIAS E MÉTODOS.
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="ChatGPT" width="5%"/> 
 
 # Informações obtidas em pesquisas na ferramenta [ChatGPT](https://chat.openai.com/chat)
