@@ -47,6 +47,20 @@ A seguir estão algumas leis e regulamentações que podem afetar a utilização
 
 Em resumo, a utilização de câmeras de vigilância em escolas pode estar sujeita a leis e regulamentações locais, estaduais e nacionais. É importante considerar as leis e regulamentações aplicáveis antes de implementar um sistema de segurança baseado em visão computacional e garantir que o sistema esteja em conformidade com as leis e regulamentações aplicáveis.
 
+# Possíveis ferramentas Open Source para serem utilizadas:
+
+#### Existem vários sistemas de código aberto disponíveis na internet que podem ser úteis para implementar uma solução de detecção de invasões em escolas e creches. Aqui estão alguns exemplos:
+
+1. **OpenALPR**: é um software de reconhecimento automático de placas de veículos de código aberto que pode ser usado para identificar veículos suspeitos nas imediações da escola ou creche. Ele usa técnicas de visão computacional para detectar e reconhecer placas de veículos em imagens capturadas pelas câmeras de vigilância.
+
+2. **MotionEye**: é um software de vigilância de código aberto que pode ser usado para configurar câmeras de vigilância em uma rede local. Ele suporta a integração de câmeras IP, webcams e outros dispositivos de captura de imagens e pode ser usado para monitorar e gravar imagens em tempo real.
+
+3. **OpenCV**: é uma biblioteca de visão computacional de código aberto que pode ser usada para processar imagens capturadas pelas câmeras de vigilância. Ele fornece uma ampla variedade de funções de processamento de imagens, como detecção de objetos, rastreamento de movimento e reconhecimento de padrões.
+
+4. **Darknet**: é uma biblioteca de aprendizado de máquina de código aberto que pode ser usada para treinar e implementar modelos YOLO para detecção de objetos em imagens de vigilância. Ele inclui várias implementações de modelos YOLO pré-treinados e pode ser usado para treinar modelos personalizados com conjuntos de dados próprios.
+
+#### É importante lembrar que, ao usar sistemas de código aberto, é necessário avaliar cuidadosamente a segurança e a confiabilidade do software antes de integrá-lo em seu projeto. Além disso, é importante seguir as leis e regulamentações locais relacionadas à privacidade e segurança de dados.
+
 # <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="5%"/> Vídeos no youtube
 
 **[Playlist Visão Computacional - Canal Programação Dinâmica]** (https://www.youtube.com/playlist?list=PL5TJqBvpXQv729nb3vdeP4E87hLark5q9)
