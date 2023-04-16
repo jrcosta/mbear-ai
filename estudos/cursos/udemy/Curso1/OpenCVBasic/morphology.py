@@ -10,6 +10,8 @@ imgErode = cv2.erode(imgCanny,(5,5),iterations=2)
 imgOpening = cv2.morphologyEx(imgCanny, cv2.MORPH_OPEN,(5,5))
 imgClose = cv2.morphologyEx(imgCanny, cv2.MORPH_CLOSE,(5,5))
 
+
+
 cv2.imshow('Img Orig', img)
 cv2.imshow('Img Cinza', imgGray)
 cv2.imshow('Img Blur', imgBlur)
