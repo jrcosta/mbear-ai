@@ -67,3 +67,25 @@ Em resumo, a utilização de câmeras de vigilância em escolas pode estar sujei
 
 **[Playlist Visão Computacional - Canal Programação Dinâmica]** (https://www.youtube.com/playlist?list=PL5TJqBvpXQv729nb3vdeP4E87hLark5q9)
 
+# <img src="https://developers.google.com/static/mediapipe/images/mediapipe_icon.svg" alt="MediaPipe" width="5%"/> [MediaPipe](https://mediapipe.dev/)
+
+ampla gama de ferramentas para construir pipelines de aprendizado de máquina multimodais. Ele permite que os desenvolvedores construam pipelines complexos para processamento de áudio, vídeo e outros tipos de dados de sensores em tempo real.
+
+O MediaPipe inclui uma biblioteca de componentes pré-construídos, como detecção facial, rastreamento de mãos, estimativa de postura e detecção de objetos, que os desenvolvedores podem usar para construir suas próprias aplicações. Esses componentes são otimizados para desempenho em plataformas móveis e desktop e podem ser facilmente integrados em aplicativos existentes.
+
+Além dos componentes pré-construídos, o MediaPipe fornece um conjunto de ferramentas para construir pipelines personalizados. Isso inclui um editor de pipeline baseado em gráfico, um conjunto de APIs para acessar o pipeline e um ambiente de tempo de execução para executar o pipeline em vários dispositivos.
+
+Em geral, o MediaPipe é um framework poderoso e flexível que permite aos desenvolvedores construir aplicações complexas de aprendizado de máquina multimodais com facilidade.
+
+# <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="5%"/> [OpenCV](https://opencv.org/)
+
+OpenCV (Open Source Computer Vision) é uma biblioteca de código aberto de visão computacional e processamento de imagem que foi originalmente desenvolvida pela Intel em 1999. Desde então, tornou-se uma das bibliotecas mais populares para processamento de imagem e visão computacional, sendo utilizada por desenvolvedores em todo o mundo para uma ampla gama de aplicações.
+
+A biblioteca OpenCV é escrita em C++, mas inclui interfaces para muitas outras linguagens de programação, incluindo Python, Java e MATLAB. A biblioteca oferece uma ampla gama de recursos para processamento de imagens e visão computacional, incluindo:
+
+Operações básicas de processamento de imagem, como filtragem, convolução, rotação, recorte e redimensionamento.
+Detecção de objetos, como detecção de rostos, detecção de bordas e detecção de características.
+Rastreamento de objetos em tempo real, como rastreamento de objetos em vídeo.
+Reconhecimento de padrões, como reconhecimento de caracteres e reconhecimento de objetos.
+Calibração de câmera e reconstrução de cena 3D.
+A biblioteca OpenCV é gratuita e de código aberto, o que significa que pode ser utilizada em projetos comerciais e de código fechado sem nenhum custo. Além disso, existem muitos recursos e exemplos disponíveis na documentação oficial do OpenCV e na comunidade de usuários, o que pode ajudar a acelerar o processo de desenvolvimento de aplicações de visão computacional e processamento de imagem.
