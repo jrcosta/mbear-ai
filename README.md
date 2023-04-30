@@ -4,7 +4,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/jrcosta/mbear-ai)
 
-<img src="https://scx1.b-cdn.net/csz/news/800a/2016/malebrownbea.jpg" alt="Uma mãe ursa e seus filhotes">
+<img src="./images/repo/logo.jpg"  align="center" width="50%" Alt="Logo Mbear">
 
 #### Repositório para armazenar o desenvolvimento de um projeto de sistema que utiliza [Visão Computacional](https://medium.com/data-hackers/computer-vision-feat-programação-dinâmica-data-hackers-podcast-30-9844ab652975) e [CFTV](https://blog.intelbras.com.br/cftv-saiba-tudo-sobre-esse-sistema/) para auxiliar na segurança de Escolas/Creches.
 #### A ideia é mediante um sistema de visão computacional processar imagens de um circuito de CFTV em todo local, seja dentro de corredores, e também nos entornos da escola, como muros e portões, para identificar comportamentos suspeitos e antecipar possíveis invasões. 
