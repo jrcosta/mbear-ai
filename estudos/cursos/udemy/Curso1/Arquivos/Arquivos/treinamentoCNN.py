@@ -15,7 +15,7 @@ import os
 ##keras versão 2.3.1
  
 ### Parâmetros
-path = "Imagens"
+path = "Arquivos\Imagens"
 batch_size_val=50
 steps_per_epoch_val=1000
 epochs_val=10

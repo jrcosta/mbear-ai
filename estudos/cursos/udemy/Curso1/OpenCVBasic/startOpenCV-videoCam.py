@@ -1,6 +1,6 @@
 import cv2
 
-camera = cv2.VideoCapture(0)
+camera = cv2.VideoCapture(1)
 camera.set(3, 640) #largura
 camera.set(4, 420) #altura
 camera.set(10, 30) #brilho

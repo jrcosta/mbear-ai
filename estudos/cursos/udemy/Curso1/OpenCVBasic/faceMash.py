@@ -63,6 +63,7 @@ while True:
             if timeEye >= 2:
                 cv2.rectangle(img, (300,150), (850,220), (0,0,255), -1)
                 cv2.putText(img, f'SLEEPING {timeEye} SEG', (310,200), cv2.FONT_HERSHEY_SIMPLEX, 1.7, (255,255,255), 5)
+                
     cv2.imshow('Imagem', img)
     if cv2.waitKey(5) & 0xFF == ord('q'):
         break
